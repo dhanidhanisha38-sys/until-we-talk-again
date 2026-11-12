@@ -22,3 +22,4 @@ jobs:
         with:
           tag_name: apk-${{ github.run_number }}
           files: UntilWeTalkAgain/app/build/outputs/apk/debug/app-debug.apk
+          
